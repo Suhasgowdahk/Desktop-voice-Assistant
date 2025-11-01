@@ -54,19 +54,23 @@ Before running, ensure you have:
 **Step 1 – Download**
 
 Clone or download the repository to your local machine
-Step 2 – Open Command Prompt
 
+**Step 2 – Open Command Prompt**
 
 Open CMD/Terminal in the downloaded directory
-Step 3 – Install Required Libraries
+
+**Step 3 – Install Required Libraries**
 
 pip install -r requirements.txt
-Step 4 – Run the Assistant
+
+**Step 4 – Run the Assistant**
 
 python WALTER.py
+
 ✅ Your desktop assistant is now ready to use!
 
 🎙️ Usage
+
 Once launched, the assistant listens for voice commands and performs various actions such as:
 
 👋 Greeting or welcoming the user
